@@ -47,6 +47,8 @@ body {
     transition: 0.3s ease;
 }
 
+
+
 .container form .title {
     margin-bottom: 8px;
     font-size: 16px;
@@ -55,7 +57,7 @@ body {
     color: #333;
 }
 
-.container form .cam {
+.container form .fields{
     display: flex;
     align-items: center;
     justify-content: space-between;
