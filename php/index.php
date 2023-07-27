@@ -13,8 +13,13 @@
     <div class="container">
         <header>Registro</header>
 
+        <!-- se inserta el formulario -->    
+
         <form action="../mensaje.html" method="POST">
             <div class="form">
+
+                <!-- se inserta el contenedor de los campos del formulario -->    
+
                 <div class="registro">
                     <div class="fields">
                         <div class="input-field">
@@ -63,6 +68,8 @@
                     <i class="uil uil-navigator"></i>
                 </button>
             </div>
+
+        <!-- se incluye la base de datos -->    
 
         <?php 
         

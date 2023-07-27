@@ -30,8 +30,6 @@ body {
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
 }
 
-
-
 .container .form .title {
     margin-bottom: 8px;
     font-size: 16px;
@@ -80,4 +78,3 @@ body {
 .backBtn:hover {
     background-color: #46a082;
 }
-
